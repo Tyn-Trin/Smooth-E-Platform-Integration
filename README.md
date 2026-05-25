@@ -15,6 +15,8 @@
 
 ---
 
+## 📦 Module 1 — Sales Order Integration
+
 ## ❗ ปัญหาที่แก้
 
 - พนักงานต้องกรอก SO ด้วยมือทุกครั้งที่มี Order จาก Platform
