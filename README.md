@@ -13,6 +13,10 @@
 | Platform | Shopee, Lazada, TikTok Shop |
 | สถานะ | 🟡 In Progress  |
 
+## Software Specification
+- [Design Specification Platform Expense](https://basicsolutionco-my.sharepoint.com/:x:/r/personal/trin_r_odoo365_co/_layouts/15/Doc.aspx?sourcedoc=%7B2DE71CF7-3CB8-42EA-9759-12F1F60E40FD%7D&file=Software%20Specification-Smooth%20E-%20Marketplace%20expense.xlsx&action=default&mobileredirect=true)
+
+
 ---
 
 ## 📦 Module 1 — Sales Order Integration
