@@ -1,7 +1,7 @@
 # 🔗 Smooth-E Platform Integration
 
 > ออกแบบระบบเชื่อม API ระหว่าง Shopee / Lazada / TikTok กับ Odoo Sale Module  
-> เพื่อรองรับการทำงาน 2 ส่วนหลัก คือ Sales Order และ Platform Expense For Settlement
+> เพื่อดึงข้อมูลจาก Sale Orderและ ค่าใช้จ่าย ในแต่ละ Platform มาอยู่ในหน้าระบบ ERP
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## ❗ ปัญหาที่แก้
 
-- พนักงานต้องกรอก SO ด้วยมือทุกครั้งที่มี Order จาก Platform
+- เมื่อก่อนใช้ Oracle พนักงานต้องกรอก SO ด้วยมือทุกครั้งที่มี Order จาก Platform
 - เกิด Human Error และเสียเวลา
 - ระบบไม่ Real-time ทำให้ข้อมูลไม่ตรงกัน
 
